@@ -1,0 +1,12 @@
+| ID         | Date         | Day Leave  | Type Leave   | Status     |
+|----------- |------------- |----------- |------------- |----------- |
+| A02        | 10/10/2002   | 7          | Sick Leave   | ACCEPTED   |
+| A02        | 14/10/2002   | 7          | Sick Leave   | REJECTED   |
+| A01        | 29/2/2023    | 4          | Sick Leave   | ACCEPTED   |
+| A01        | 16/10/2002   | 7          | Sick Leave   | ACCEPTED   |
+| A02        | 13/10/2002   | 7          | Sick Leave   | ACCEPTED   |
+| A01        | 4/4/2024     | 4          | Sick Leave   | PENDING    |
+| A01        | 4/4/2023     | 5          | Sick Leave   | PENDING    |
+| A01        | 14/10/2002   | 7          | Sick Leave   | ACCEPTED   |
+| (null)     | (null)       | (null)     | (null)       | (null)     |
+|-----------|-------------|-----------|-------------|-----------|
